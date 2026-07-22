@@ -1,4 +1,4 @@
-# 🚀 Complete MCP Bootcamp 2026
+# 🚀 Complete MCP Bootcamp
 
 A comprehensive, hands-on bootcamp for mastering the **Model Context Protocol (MCP)** — the open standard for seamless AI-tool integration. Learn to build powerful MCP servers and clients from fundamentals to production-ready applications.
 
